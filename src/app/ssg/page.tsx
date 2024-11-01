@@ -12,3 +12,5 @@ export default async function SsgPage() {
     </>
   );
 }
+
+// Default Next.js จะทำการ Render เป็นแบบ Static Site Generation (SSG) โดยอัตโนมัติ

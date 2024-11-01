@@ -13,4 +13,5 @@ export default async function SsrPage() {
   );
 }
 
+// จะทำงานใหม่ทุกครั้งที่มี Request เข้ามา
 export const dynamic = "force-dynamic";
